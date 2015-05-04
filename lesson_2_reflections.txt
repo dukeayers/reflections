@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Github will create a .Git file and will allow you to version control the repository you have just enabled. You have to do it in order to run commands and actually version control something.
