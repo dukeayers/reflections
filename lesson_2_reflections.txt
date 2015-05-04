@@ -5,3 +5,24 @@ Github will create a .Git file and will allow you to version control the reposit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is where we can see what is being added to the commit and what is not. This allows us to see what changes we will be commiting to the repository and what changes we will choose to continue working on.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can determine which file changes should be associated per each commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It would be helpful if we wanted to test different pieces of code without affecting the current state of our repository
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help by giving my a clear, linear, visual of what the branch system does and how I can use it to my advantage.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+By merging two branches we can effectively combine the commits and changes from both into one branch. This will also allow us to fix any merge conflicts that may or may not arise during this time.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros are that you do not need to worry about checking every file. The cons are that you never know if there was another line of code added that could work against something you've committed.
