@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Github will create a .Git file and will allow you to version control the repository you have just enabled. You have to do it in order to run commands and actually version control something.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where we can see what is being added to the commit and what is not. This allows us to see what changes we will be commiting to the repository and what changes we will choose to continue working on.
