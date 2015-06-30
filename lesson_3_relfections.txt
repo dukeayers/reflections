@@ -17,3 +17,7 @@ This allows you the opportunity to reference the last known working copy of a sp
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 We could use SVN... But really, I guess you would be in control of your own version control system and it could be extremely hard to manage the changes. There may be no benefits depending on the type of version control you use.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a separate branch when you are attempting to bring in a new feature or maybe edit some existing feature. I would make a new branch if I would want to experiment with the current codebase and potentially add on to it or test to see what changes I could make that would result in an improvement.
