@@ -13,3 +13,7 @@ Forks are when you don't have permisson to clone and alter someone else's repo. 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This allows you the opportunity to reference the last known working copy of a specific codebase. Which then you can appropriately branch off of, merge into, or do other things.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+We could use SVN... But really, I guess you would be in control of your own version control system and it could be extremely hard to manage the changes. There may be no benefits depending on the type of version control you use.
